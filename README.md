@@ -1,4 +1,6 @@
-# gpt
+# kjv-gpt
+
+Training a kjv gpt model.
 
 A super simple gpt model and its training script.
 
